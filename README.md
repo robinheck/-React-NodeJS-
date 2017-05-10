@@ -1,12 +1,12 @@
-# ±z¦n¡A½ÐÂIÀ»¦¹ºô§}°Ñ¦Ò½Òµ{Á¿¸q #
+# èª²ç¨‹è¬›ç¾© #
 https://easonwang01.gitbooks.io/class/content/
 
-# 0.¦w¸ËNode.js #
+# 0.å®‰è£Node.js #
 https://nodejs.org/en/download/
 # NPM #
  npm xxx -g
-### ¿é¤Jnpm init ¨Ã¬d¬Ýpackage.json 
-¤@¶}©l¶}µo®É±N®M¥ó¦w¸Ë¨ìdevDependencies
-> npm install --save-dev //°O±osave¸òdev­n¥Î-³s¦A¤@°_
-³¡ÄÝ®É¤£¦w¸ËdevDependenciesªº¼Ò²Õ«h¿é¤J
+### è¼¸å…¥npm init ä¸¦æŸ¥çœ‹package.json 
+ä¸€é–‹å§‹é–‹ç™¼æ™‚å°‡å¥—ä»¶å®‰è£åˆ°devDependencies
+> npm install --save-dev //è¨˜å¾—saveè·Ÿdevè¦ç”¨-é€£å†ä¸€èµ·
+éƒ¨å±¬æ™‚ä¸å®‰è£devDependenciesçš„æ¨¡çµ„å‰‡è¼¸å…¥
 > npm install --production# -React-NodeJS-
